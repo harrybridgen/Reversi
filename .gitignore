@@ -1,0 +1,21 @@
+# Ignore IDE settings
+.idea/
+*.iml
+
+# Build output
+/out/
+target/
+bin/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.class
+*.swp
+
+# JavaFX-specific cache (if used)
+.gradle/
