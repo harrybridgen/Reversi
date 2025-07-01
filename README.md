@@ -22,18 +22,6 @@ The following components were supplied by the university:
 - Enhanced move validation and user feedback
 - Made the project more modular and maintainable
 
-## How to Run
-
-1. Open the project in IntelliJ or any Java IDE.
-2. Ensure Java 17+ and JavaFX are set up (SDK required).
-3. Run the `Main` class.
-
-## Requirements
-
-- Java 17+
-- JavaFX SDK
-- IntelliJ IDEA
-
 ## Author
 
 Harry Bridgen  
